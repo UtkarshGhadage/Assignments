@@ -1,19 +1,12 @@
 package com.example.notificationlogger
 
-import android.app.Notification
-import android.content.Intent
-import android.content.pm.PackageManager
-import androidx.appcompat.app.AppCompatActivity
-import android.os.Bundle
-import androidx.core.app.ActivityCompat
-import android.Manifest
 import android.app.NotificationManager
 import android.content.ComponentName
 import android.content.Context
-import android.os.Build
+import android.content.Intent
+import android.os.Bundle
 import android.provider.Settings
-import android.util.Log
-import androidx.core.app.NotificationManagerCompat
+import androidx.appcompat.app.AppCompatActivity
 
 class MainActivity : AppCompatActivity() {
 
