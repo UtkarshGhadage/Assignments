@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "266543228244",
+    "project_id": "notification-logger-de2d9",
+    "storage_bucket": "notification-logger-de2d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266543228244:android:e3ea062d39fc48e03754c1",
+        "android_client_info": {
+          "package_name": "com.example.notificationlogger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzfb6suSAFRYNArGlc-TpCEH-cj1_0Xu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
